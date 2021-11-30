@@ -97,7 +97,7 @@ theme: huxblog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/bomee/bomee.github.io
-  branch: gh-pages
+# deploy:
+#   type: git
+#   repo: https://github.com/bomee/bomee.github.io
+#   branch: gh-pages

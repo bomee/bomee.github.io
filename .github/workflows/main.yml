@@ -28,11 +28,9 @@ jobs:
     # Deploy hexo blog website.
     - name: Deploy
       id: deploy
-      uses: sma11black/hexo-action@v1.0.3
+      uses: sma11black/hexo-action@v1.0.4
       with:
         deploy_key: ${{ secrets.DEPLOY_KEY }}
-        # user_name: bomee
-        # user_email: shiaupo@qq.com
         commit_msg: ${{ github.event.head_commit.message }}
     # Use the output from the `deploy` step(use for test action)
     - name: Get the output
