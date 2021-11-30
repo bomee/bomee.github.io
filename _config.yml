@@ -8,7 +8,7 @@ subtitle: 「积硅步，行千里」
 author: bomee
 language:
 timezone:
-header-img: img/home-bg.jpg # https://unsplash.com/
+header-img: img/header_bg/home.jpg # https://unsplash.com/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
