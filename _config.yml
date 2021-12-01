@@ -10,7 +10,7 @@ keywords: 波米 博客 技术分享 经验总结 个人感想
 author: bomee
 language:
 timezone:
-header-img: img/header_bg/home.jpg # https://unsplash.com/
+header-img: images/header_bg/home.jpg # https://unsplash.com/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -40,7 +40,7 @@ disqus_username:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "拥有10+年的工作经验，懂一些前端、也搞过运维，主要还是专注于服务端领域。擅长于以合理的方式解决复杂问题。喜欢踢点足球。"
-sidebar-avatar: img/avatar.jpg
+sidebar-avatar: images/avatar.jpg
 
 
 # Featured Tags
@@ -53,7 +53,7 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: i_dont_wanna_use_default_archives    # 不使用默认的archives
+archive_dir: archives2          # 不使用默认的archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -62,10 +62,10 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: false  # Transform title into titlecase
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false # ture, 开启每个post独立一个资源文件夹
 relative_link: false
 future: true
 highlight:

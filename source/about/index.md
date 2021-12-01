@@ -3,7 +3,7 @@ layout: "page"
 title: "About"
 date: 2016-04-21 04:48:33
 description: "Hi，I am bomee."
-header-img: "img/header_bg/about.jpg"
+header-img: "images/header_bg/about.jpg"
 comments: true
 ---
 

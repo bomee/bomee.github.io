@@ -4,7 +4,7 @@ title:      "Welcome to bomee's blog"
 subtitle:   ""
 date:       "2021-11-30"
 author:     "bomee"
-header-img: "/img/header_bg/write.jpg"
+header-img: "/images/header_bg/write.jpg"
 tags:
     - 随笔
 ---
