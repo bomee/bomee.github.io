@@ -40,7 +40,7 @@ disqus_username:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "拥有多年的工作经验，懂一些前端、也搞过运维，主要还是专注于服务端领域。擅长于以合理的方式解决复杂问题。喜欢踢点足球。"
+sidebar-about-description: "波米，拥有多年的工作经验，懂一些前端、也搞过运维，主要还是专注于服务端领域。擅长于以合理的方式解决复杂问题。喜欢踢点足球。"
 sidebar-avatar: images/avatar.jpg
 
 
