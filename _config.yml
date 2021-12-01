@@ -5,6 +5,8 @@
 # Site
 title: bomee's blog
 subtitle: 「积硅步，行千里」
+description: 
+keywords: 波米 博客 技术分享 经验总结 个人感想
 author: bomee
 language:
 timezone:
@@ -37,7 +39,7 @@ disqus_username:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "拥有10+年的工作经验，懂一些前端、也搞过运维，最后还是专注于服务端领域。擅长于以合理的方式解决复杂问题。喜欢踢点足球。"
+sidebar-about-description: "拥有10+年的工作经验，懂一些前端、也搞过运维，主要还是专注于服务端领域。擅长于以合理的方式解决复杂问题。喜欢踢点足球。"
 sidebar-avatar: img/avatar.jpg
 
 
@@ -51,7 +53,7 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: i_dont_wanna_use_default_archives
+archive_dir: i_dont_wanna_use_default_archives    # 不使用默认的archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
