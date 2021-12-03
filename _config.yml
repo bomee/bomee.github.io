@@ -5,15 +5,14 @@
 # Site
 title: bomee's blog
 subtitle: 「积硅步，行千里」
-description: 
-keywords: 波米 博客 技术分享 经验总结 个人感想
+description: 波米的博客，主要做技术分享、经验总结、个人感悟
+keyword: 波米 博客 技术分享 经验总结 个人感悟
 author: bomee
 language:
 timezone:
 header-img: images/header_bg/home.jpg # https://unsplash.com/
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://bomee.github.io
 root: /
 permalink: :year/:month/:day/:title/
@@ -31,10 +30,6 @@ SEOTitle: 波米的博客 | bomee's blog
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
-# Disqus settings
-disqus_username: 
 
 # Analytics settings
 
